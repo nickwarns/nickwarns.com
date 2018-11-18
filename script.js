@@ -13,18 +13,8 @@ var d = 90;
 addNumbers(c, d);
 
 function squaredSum (a,b) {
-  
+
 }
-
-
-
-
-
-
-
-
-
-
 
 function DogFact() {
   console.log ('Dogs rule')
@@ -43,13 +33,12 @@ DogFact();
 // alert('sup dawg')
 
 
-
-var numberOfBoats = 25;
-var numberOfFish = 100
-var numberOfFishPerBoat = numberOfFish / numberOfBoats
-console.log(numberOfFishPerBoat);
-
-document.write(numberOfFishPerBoat);
+//
+// var numberOfBoats = 25;
+// var numberOfFish = 100
+// var numberOfFishPerBoat = numberOfFish / numberOfBoats
+// console.log(numberOfFishPerBoat);
+// document.write(numberOfFishPerBoat);
 
 var dogsname = "Mack"
 var fullname = dogsname + 'Attack'
