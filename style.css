@@ -4,7 +4,7 @@ a:link {
 }
 /*visited link*/
 a:visited {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 255, 0);
 }
 /*mouse over link*/
 a:hover {
@@ -14,17 +14,16 @@ a:hover {
 a:active {
     color: rgb(0, 0, 255);
 }
-body {color: white;
-}
-h1{ color: white;}
+
+h1{ color: red;}
 table{color:blue;}
 body{
-  background-color: black;
+  background-color: white;
   font-family: arial;
   font-size:15px;
   padding: 10px;
-  /* border: 10px solid #ff0000;
-  margin: 10px; */
+  border: 10px solid #ff0000;
+  margin: 10px;
   margin-left: auto;
 }
 
@@ -37,9 +36,7 @@ margin: auto;
 }
 body{
   background-attachment: fixed;
-  /* background-image:url(fishingfleet2018.jpg); */
-  background-image: url(boat.jpg);
-  /* background-image: url(space.gif); */
+  background-image: url(focus.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,7 +45,7 @@ body{
 
 /* #header-image {
   height: 100px;  background-attachment: fixed;
-  background-image: url(boat.jpg);
+  background-image: url(focus.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; */
